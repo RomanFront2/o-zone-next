@@ -1,6 +1,6 @@
 # o-zone-next
-Glo intensive 9_js_next.js_151125 - part 2 - next
 
+Glo intensive 9_js_next.js_151125 - part 2 - next
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
