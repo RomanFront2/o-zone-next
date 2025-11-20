@@ -6,6 +6,9 @@ export default function Cart() {
         <div className="cart-total">Общая сумма: <span>0</span> руб</div>
 
         <div className="cart-wrapper">
+          <div id="cart-empty">
+            Ваша корзина пока пуста
+          </div>
 
         </div>
         <button className="btn btn-primary cart-confirm">Оформить заказ</button>
